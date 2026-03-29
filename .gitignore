@@ -1,0 +1,17 @@
+# Dataset
+rust_dataset/
+
+# Model checkpoints
+*.pt
+
+# Results
+*.csv
+
+# System
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
