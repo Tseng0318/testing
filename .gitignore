@@ -1,6 +1,8 @@
 # Dataset
 rust_dataset/
 
+rust_dataset_2/
+
 # Model checkpoints
 *.pt
 
