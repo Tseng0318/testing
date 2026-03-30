@@ -3,6 +3,8 @@ rust_dataset/
 
 rust_dataset_2/
 
+saved_linear_probes/
+
 # Model checkpoints
 *.pt
 
